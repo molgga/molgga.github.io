@@ -1,5 +1,7 @@
 # molgga.github.io
 
+[Github](https://github.com/molgga) | [NPM](https://www.npmjs.com/~molgga84)
+
 ## file-reader
 
 > javascript clientside file reader, image blob reader
